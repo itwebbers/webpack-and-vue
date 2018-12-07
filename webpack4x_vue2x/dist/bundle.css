@@ -1,0 +1,14 @@
+
+html, body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+body {
+  background-color: blue;
+  display: flex;
+}
+
+/*# sourceMappingURL=bundle.css.map*/

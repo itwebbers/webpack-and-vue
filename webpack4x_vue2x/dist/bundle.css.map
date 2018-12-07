@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/App.vue?cf85","webpack:///./src/styles/index.css"],"names":[],"mappings":";AACA;AACA;AACA;AACA;AACA;AACA;;ACNA;AACA;AACA;AACA,C","file":"bundle.css","sourcesContent":["\nhtml, body {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n  font-size: 16px;\n}\n","body {\n  background-color: blue;\n  display: flex;\n}"],"sourceRoot":""}
